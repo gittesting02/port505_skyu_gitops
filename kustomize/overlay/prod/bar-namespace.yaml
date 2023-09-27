@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_0eec5d36-43f3-4cd1-ac4d-bafb96773608
+    project-id: project_321ee76a-cbcd-40f6-bc24-f0e7285a572c
+    project-name: Port505
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
